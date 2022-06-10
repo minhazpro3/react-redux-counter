@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
- // 1. State => count : 0
+ 1.// 1. State => count : 0
 // 2. action -> increment, decrement, reset
 // 3.  reducers -> increment count + 1
                 // decrement count - 1
