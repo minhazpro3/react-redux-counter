@@ -13,4 +13,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 4. store
 root or main file e store use korbo. karon sob child e data jabe
 5. providing store in react
-6. use stor
+6. use store
